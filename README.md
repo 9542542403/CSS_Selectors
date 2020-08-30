@@ -22,7 +22,7 @@ input[type="button"] {
 <form name="input" action="" method="get">
   Class:<input type="text" name="Name" value=" " size="20">
   ID:<input type="text" name="Name" value=" " size="20">
-  <input type="button" value="Example Button">
+  <input type="button" value="Submit">
 </form>
 
 </body>
